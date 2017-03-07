@@ -1,0 +1,232 @@
+
+Triangle classification:
+
+* Acute angle: an angle with a measure less than 90°.
+* Acute triangle: a triangle whose angles are ALL acute.
+
+* Obtuse angle: an angle with a mesaure greater than 90° and less than 180°.
+* Obtuse triangle: a triangle which has ONE obtuse angle.
+
+* Right angle: an angle with a measure equal to 90°.
+* Right triangle: a triangle which has ONE right angle.
+
+* Equilateral triangle: a triangle which has three congruent sides and three
+  congruent angles. Also known as an equiangular triangle, for its congruent
+  angles.
+* Isosceles triangle: a triangle which has two congruent sides and angles.
+* Scalene triangle: a triangle which has no congruent sides or angles.
+
+[Triangle Sum Theorem]
+The sum of all of the (interior) angles of any triangle is always 180°. This
+is useful for finding the unknown angle of a triangle - if you have two of
+its angles, you can simply subtract them both from 180° to get the measure of
+the third and unknown angle.
+
+[Exterior Angles of a Triangle Theorem]
+The measure of an exterior angle of a triangle is equal to the sum of the two
+non-adjacent interior angles of the triangle.
+
+---------------------------------------------------------------------------––
+
+What is the length of each side of an equilateral triangle where one side's
+length is (4y - 1.5) and another side's length is (2.5 + 2y)?
+
+4y - 1.5 = 2.5 + 2y
+4y = 4 + 2y
+2y = 4
+y = 2
+
+4y - 1.5
+4(2) - 1.5
+8 - 1.5
+6.5
+
+2.5 + 2y
+2.5 + 2(2)
+2.5 + 4
+6.5
+
+---------------------------------------------------------------------------––
+
+Triangle ABC is isosceles. The two congruent edges have the lengths
+AC = (2x - 7) and BC = (5x - 25). What is the length of the edge AC?
+
+2x - 7 = 5x - 25
+2x = 5x - 18
+-3x = -18
+x = 6
+
+2x - 7
+2(6) - 7
+12 - 7
+5
+
+---------------------------------------------------------------------------––
+
+Triangle PQR is equilateral. The length of each edge is PR = (x + 3),
+PQ = (3x - 13) and QR = (2x - 5). What is the length of each edge?
+
+x.................
+3x - 13 = 2x - 5
+3x = 2x + 8
+x = 8
+
+PR................
+x + 3
+8 + 3
+11
+
+PQ................
+3x - 13
+3(8) - 13
+24 - 13
+11
+
+QR................
+2x - 5
+2(8) - 5
+16 - 5
+11
+
+---------------------------------------------------------------------------––
+
+Figure: http://i.imgur.com/w8GGvgR.png
+
+What is the value of x and y?
+
+y....................................
+y + 12 = 30 + 90
+y + 12 = 120
+y = 108
+
+x....................................
+x = 180 - (63 + (180 - (y + 12)))
+x = 180 - (63 + (180 - (108 + 12)))
+x = 180 - (63 + (180 - 120))
+x = 180 - (63 + 60)
+x = 180 - 123
+x = 57
+
+check y..............................
+30 + 90 + (180 - (y + 12)) = 180
+30 + 90 + (180 - (108 + 12)) = 180
+30 + 90 + (180 - 120) = 180
+30 + 90 + 60 = 180
+180 = 180
+
+check x..............................
+x + 63 + (180 - (y + 12)) = 180
+57 + 63 + (180 - (108 + 12)) = 180
+57 + 63 + (180 - 120) = 180
+57 + 63 + 60 = 180
+180 = 180
+
+---------------------------------------------------------------------------––
+
+Figure: http://i.imgur.com/DrEvSKg.gif
+
+What is the value of y?
+
+y.............................
+y = 180 - (76 + (180 - 118))
+y = 180 - (76 + 62)
+y = 180 - 138
+y = 42
+
+---------------------------------------------------------------------------––
+
+Figure: http://i.imgur.com/9cfF50l.gif
+
+What is the measure of angle R?
+
+x................................
+(3x - 4) + (6x + 22) + 63 = 180
+(3x - 4) + (6x + 22) = 117
+3x - 4 + 6x + 22 = 117
+3x - 4 + 6x = 95
+3x + 6x = 99
+9x = 99
+x = 11
+
+measure of angle R...............
+R = 3x - 4
+R = 3(11) - 4
+R = 33 - 4
+R = 29
+
+---------------------------------------------------------------------------––
+
+Figure: http://i.imgur.com/QxcqCCm.png
+
+What is the measure of angle Z?
+
+y.............................
+2y + 30 + 4y - 30 + 90 = 180
+2y + 4y + 90 = 180
+6y + 90 = 180
+6y = 90
+y = 15
+
+measure of angle Z............
+Z = 4y - 30
+Z = 4(15) - 30
+Z = 60 - 30
+Z = 30
+
+---------------------------------------------------------------------------––
+
+Figure: http://i.imgur.com/tfAhrVq.gif
+
+In the figure, AB = 3x + 2 and AC = x + 14. Find BC.
+
+x................
+3x + 2 = x + 14
+3x = x + 12
+2x = 12
+x = 6
+
+AB...............
+AB = 3x + 2
+AB = 3(6) + 2
+AB = 18 + 2
+AB = 20
+
+AC...............
+AC = x + 14
+AC = 6 + 14
+AC = 20
+
+BC...............
+BC = AB
+BC = 20
+
+check BC.........
+BC = AB = AC
+20 = 20 = 20
+
+---------------------------------------------------------------------------––
+
+Figure: http://i.imgur.com/hYRsmsY.gif
+
+In the figure, AB = x + 17 and AC = 2x + 1. Find AB.
+
+x................
+x + 17 = 2x + 1
+x = 2x - 16
+-x = -16
+x = 16
+
+AB...............
+AB = x + 17
+AB = 16 + 17
+AB = 33
+
+AC...............
+AC = 2x + 1
+AC = 2(16) + 1
+AC = 32 + 1
+AC = 33
+
+check AB.........
+AB = AC
+33 = 33
