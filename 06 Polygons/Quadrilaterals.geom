@@ -6,11 +6,11 @@ Any polygon with exactly four sides.
 A quadrilateral with two pairs of parallel sides.
 
 [Rectangle]
-A quadrilateral with four congruent sides (all 90 degrees).
+A quadrilateral with four congruent angles (all 90 degrees).
 A rectangle is a parallelogram.
 
 [Square]
-A rectangle with four congruent angles.
+A rectangle with four congruent sides.
 A square is a rhombus and a parallelogram.
 
 [Rhombus]
