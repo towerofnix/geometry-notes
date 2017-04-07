@@ -1,5 +1,5 @@
 [Area of a Trapezoid]
-Equivalent to half of a triangle's height times the sum of its base lengths.
+Equivalent to half of a trapezoid's height times the sum of its base lengths.
 A = (1/2)(h)(b1 + b2).
 
 ––––––––––––-––––––––––––-––––––––––––-––––––––––––-––––––––––––-––––––––––––-–
