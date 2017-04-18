@@ -1,7 +1,3 @@
-[Circle]
-A set of all points in a plane equidistant from a given point in the plane,
-which is the center of the circle.
-
 [Arc]
 A section of the circumference of a circle.
 
