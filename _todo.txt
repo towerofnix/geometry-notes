@@ -10,6 +10,8 @@ Also there's a bunch of file names in that directory that I don't like, like
 Standardize formula format and such. This documentation should be timeless,
 which means we shouldn't be able to tell when a specific entry was written,
 especially based on its formatting!
+- Update: the format used in Angles in Circles and other files around that time
+  can probably be used. Next, to update the older documents..
 
 Standardize practice problem format. I've already got this mostly worked out in
 my head, but there's still a couple of things that might need thought (like
