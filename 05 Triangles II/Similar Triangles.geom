@@ -4,11 +4,11 @@ The lengths of the corresponding sides are proportional in similar figures.
 .
 The symbol of similarity is '~'.
 
-[AA Triangle Similarity Postulate]
+[AA (Angle-Angle) Triangle Similarity Postulate]
 If two angles of one triangle are congruent to two angles of another triangle,
 then the triangles are similar.
 
-[SAS Triangle Similarity Postulate]
+[SAS (Side-Angle-Side) Triangle Similarity Postulate]
 If you can prove that two corresponding pairs of line segments of two
 triangles are proportional, and their included angles are congruent, then the
 triangles are similar.
@@ -16,7 +16,7 @@ triangles are similar.
 .  Given triangles XYZ and ABC
 .  XY/AB = XZ/AC  and  X = A
 
-[SSS Triangle Similarity Postulate]
+[SSS (Side-Side-Side) Triangle Similarity Postulate]
 If all the sides of one triangle are proportional to the corresponding sides of
 another triangle, the two triangles are similar.
 .

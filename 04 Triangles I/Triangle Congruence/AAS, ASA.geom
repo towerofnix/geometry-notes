@@ -1,6 +1,4 @@
 
-# Triangle Congruence (AAS/ASA)
-
 Congruent figures have the same shape and the same size.
 
 An included side is a side that is formed between two previously mentioned
