@@ -1,3 +1,6 @@
+!!Important - find the difference between intersect and intercept, and make
+the right one is being used. I think it should usually be intersect.
+
 The rulers on the two computers used for this are different! On the original
 computer used for all notes, it was 78 characters; on the desktop, 80
 characters. Which should we go with? Either way, the whole thing will need some

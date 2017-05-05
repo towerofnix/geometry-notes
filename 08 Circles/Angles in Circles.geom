@@ -7,6 +7,25 @@ An angle whose vertex is on a circle and whose rays intersect the same
 circle. The measure of an inscribed angle is equal to half the measure of
 its intercepted arc.
 
+[Inscribed Angles Intersecting the Same Arc are Congruent]
+.
+. Proof......................................................
+.
+.   DAB and BCD are     | Given
+.   inscribed angles    |
+.   that intersect arc  |
+.   BD at point P       |
+.                       |
+.   mDAB = 1/2(mBD)     | Measure of an inscribed angle is
+.   mBCD = 1/2(mBD)     | equivalent to half the measure of
+.                       | its intercepted arc
+.                       |
+.   mDAB = mBCD         | Reflexive property
+.                       |
+.   Angle DAB is        | Angles with the same measure are
+.   congruent to angle  | congruent
+.   BCD                 |
+
 [Angles Outside of a Circle]
 The measure of an angle with a vertex outside of a circle and rays that pass
 through the interior of the same circle is half of the distance between the two
