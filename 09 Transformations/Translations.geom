@@ -32,12 +32,5 @@ points on a figure are all "slided" in a specific direction the same distance.
 .  (0, -5) and (3, -2).
 .
 .  Note that not a translation does not need to translate along both the
-.  X and Y axis, and that the principles for translation in a 2D coordinate
+.  X and Y axes, and that the principles for translation in a 2D coordinate
 .  system apply for a system with any number of dimensions.
-
-P' (-1 - 5, 2 + 3) = (-6, 5)
-Q' (6 - 5, 3 + 3) = (1, 6)
-R' (5 - 5, -3 + 3) = (0, 0)
-S' (1 - 5, -4 + 3) = (-4, -1)
-
-
