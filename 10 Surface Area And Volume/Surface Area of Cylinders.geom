@@ -63,3 +63,33 @@ S = 2πrh + 2πr^2
 156 = 12h + 72
 84 = 12h
 7 = h
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+If a cylinder has a surface area of 36 square inches and its radius is 1.6
+inches, how tall is the cylinder in inches? Use π = 3.14. Round to the nearest
+tenth.
+
+Height.......................
+S = 2πrh + 2πr^2
+36 = 2π(1.6)(h) + 2π(1.6^2)
+36 = 3.2π(h) + 2π(2.56)
+36 = 3.2π(h) + 5.12π
+36 = 10.048(h) + 16.0768
+19.9232 = 10.048(h)
+2 = h
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+If a cylinder has a surface area of 59 square inches and its radius is 2.1
+inches, how tall is the cylinder in inches? Use π = 3.14. Round to the nearest
+tenth.
+
+Height.......................
+S = 2πrh + 2πr^2
+59 = 2π(2.1)(h) + 2π(2.1^2)
+59 = 4.2πh + 8.82π
+59 = 4.2(3.14)(h) + 8.82(3.14)
+59 = 13.188h + 27.6948
+31.3052 = 13.188h
+2.4 = h

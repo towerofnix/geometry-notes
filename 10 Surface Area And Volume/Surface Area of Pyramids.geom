@@ -126,3 +126,34 @@ Surface area.......
 S = L + B
 S = 126 + 81
 S = 207
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Figure: http://i.imgur.com/RFe1A7m.png
+
+What is the surface area of the square pyramid shown above?
+
+Lateral area.........
+L = 1/2lp
+L = 1/2(5.2)(4 * 6)
+L = 1/2(5.2)(24)
+L = 62.4
+
+Base area............
+B = 6^2
+B = 36
+
+Total surface area...
+S = L + B
+S = 62.4 + 36
+S = 98.4
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+A regular hexagonal pyramid has a base area of 29 square inches and a lateral
+area of 210 square inches. What is the surface area of the hexagonal pyramid?
+
+Surface area..
+S = L + B
+S = 210 + 29
+S = 239
