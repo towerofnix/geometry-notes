@@ -11,7 +11,7 @@ for once: S = L + B.
 
 [Lateral Area of a Pyramid]
 The lateral area L of a pyramid is equal to 1/2lp, where l is the slant height
-of the pyramid and lp is the perimeter of the base.
+of the pyramid and p is the perimeter of the base.
 
 [Slant Height]
 The height of one of the triangular lateral faces of a regular pyramid.
