@@ -5,6 +5,21 @@ The rulers on the two computers used for this are different! On the original
 computer used for all notes, it was 78 characters; on the desktop, 80
 characters. Which should we go with? Either way, the whole thing will need some
 updating.
+** Update: 80 characters for the separator width; don't let any characters
+   appear past the 79th column. Example:
+
+BAD:
+Blah blah blah blah blah blah blah blah blah blaaaah blah blaaah blah blah blah
+
+GOOD:
+Blah blah blah blah blah blah blah blah blah blaaaah blah blaaah blah blah
+blah
+
+BAD:
+-----------------------------------------------------------------------------
+
+GOOD:
+-------------------------------------------------------------------------------
 
 Maybe rename '07 Area of Polygons and Circles' to '07 Area'?
 Also there's a bunch of file names in that directory that I don't like, like
@@ -19,7 +34,3 @@ especially based on its formatting!
 Standardize practice problem format. I've already got this mostly worked out in
 my head, but there's still a couple of things that might need thought (like
 when to capitalize section headings, and whether to use "value of x" or "x").
-
-Publish the tmLanguage/YAML-tmLanguage into the repository! It's a handy
-formatting document for compatible text editors (usually Sublime Text), with
-support for jump-to-definition and such.
