@@ -17,3 +17,18 @@ A triangle whose angles measure 30, 60, and 90 degrees.
 .  Given the length x of the leg connecting to the 60-degree vertex, the
 .  length of the other leg is x * sqrt(3), and the hypotenuse's length is 2x.
 
+-------------------------------------------------------------------------------
+
+Figure: http://i.imgur.com/L7R7nQX.png
+
+Find IG.
+
+x..................
+h = 2x
+22 = 2x
+11 = x
+
+IG.................
+IG = x * sqrt(3)
+IG = 11 * sqrt(3)
+
